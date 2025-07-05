@@ -13,4 +13,4 @@ A simple GUI calculator app built with Tkinter in Python. Supports basic arithme
 
 ## Screenshot
 
-![Calculator GUI](main/Calc-Science.PNG)
+![Calculator GUI](Calc-Science.PNG)
